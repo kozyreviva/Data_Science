@@ -8,3 +8,4 @@
 |[Классификаиция клиентов телеком компании](https://github.com/kozyreviva/Data_Science/tree/main/ML_introduction)|Введение в МО|`Python` `Pandas` `Matplotlib` `Scikit-learn`|классификация, подбор гиперпараметров, выбор модели МО|
 |[Прогнозирование оттока клиента Банка](https://github.com/kozyreviva/Data_Science/tree/main/teacher_train)|Обучение с учителем|`Pandas` `Matplotlib` `Scikit-learn`|классификация, подбор гиперпараметров, выбор модели МО|
 |[Определение наиболее выгодного региона нефтедобычи](https://github.com/kozyreviva/Data_Science/tree/main/ML_in_business)|Машинное обучение в бизнесе|`Pandas` `Scikit-learn` `бутстреп`|регрессия, разработка бизнес-модели, бутстреп|
+|[Исследование технологического процесса очистки золота](https://github.com/kozyreviva/Data_Science/tree/main/Project_2)|Второй проект|`Python` `Pandas` `Matplotlib` `NumPy` `Scikit-learn` `исследовательский анализ данных`|анализ данных, регрессия, кастомные метрики|
