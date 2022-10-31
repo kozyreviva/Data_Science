@@ -12,3 +12,4 @@
 |[Защита данных клиентов страховой компании](https://github.com/kozyreviva/Data_Science/tree/main/linear_regression)|Линейная алгебра|`Python` `NumPy` `Scikit-learn`|линейная алгебра, регрессия|
 |[Построение модели определения стоимости автомобиля](https://github.com/kozyreviva/Data_Science/tree/main/numerical_methods)|Численные методы|`Python` `Pandas` `Matplotlib` `NumPy` `lightgbm`|градиентный бустинг, регрессия|
 |[Прогнозирование количества заказов такси на следующий час](https://github.com/kozyreviva/Data_Science/tree/main/timeline)|Временные ряды|`Python` `Pandas` `Scikit-learn` `statsmodels` `Plotly` `LightGBM`|временные ряды, регрессия, предсказания|
+|[Обучение модели классификации комментариев](https://github.com/kozyreviva/Data_Science/tree/main/toxic_comments)|МО для текстов|`Python` `Pandas` `BERT` `nltk` `tf-idf`|обработка естественного языка, NLP|
