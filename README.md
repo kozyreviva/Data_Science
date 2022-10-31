@@ -11,3 +11,4 @@
 |[Исследование технологического процесса очистки золота](https://github.com/kozyreviva/Data_Science/tree/main/Project_2)|Второй проект|`Python` `Pandas` `Matplotlib` `NumPy` `Plotly` `Scikit-learn` `исследовательский анализ данных`|анализ данных, регрессия, кастомные метрики|
 |[Защита данных клиентов страховой компании](https://github.com/kozyreviva/Data_Science/tree/main/linear_regression)|Линейная алгебра|`Python` `NumPy` `Scikit-learn`|линейная алгебра, регрессия|
 |[Построение модели определения стоимости автомобиля](https://github.com/kozyreviva/Data_Science/tree/main/numerical_methods)|Численные методы|`Python` `Pandas` `Matplotlib` `NumPy` `lightgbm`|градиентный бустинг, регрессия|
+|[Прогнозирование количества заказов такси на следующий час](https://github.com/kozyreviva/Data_Science/tree/main/timeline)|Временные ряды|`Python` `Pandas` `Scikit-learn` `statsmodels` `Plotly` `LightGBM`|временные ряды, регрессия, предсказания|
